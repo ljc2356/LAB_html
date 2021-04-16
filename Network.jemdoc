@@ -1,0 +1,67 @@
+# jemdoc: menu{MENU}{Network.html}
+= Wireless Network Localization
+
+== Research summary
+Location-awareness plays a crucial role in many wireless network applications, such as localization services in next generation cellular networks, search-and-rescue operations, logistics, and blue force tracking in battlefields. The global positioning system (GPS) is the most important technology to provide location-awareness around the globe through a constellation of at least 24 satellites. However, the effectiveness of GPS is limited in harsh environments, such as in buildings, in urban canyons, under tree canopies, and in caves, due to the inability of GPS signals to penetrate most obstacles. Hence, new localization techniques are required to meet the increasing need for accurate localization in such harsh environments. \n
+Our research interests revolve around following directions:\n
+- Theoretical analysis framework, distributed algorithm design and resource allocation for relative localization\n
+- Localization techniques based on polarization sensitive array \n
+- Single satellite positioning system based on Doppler information \n
+- 5G positioning system based on SRS signal \n
+- Network localization and synchronization using full-duplex radios \n
+- Beamspace direct localization; 
+- Tensor-based multipath estimation\n
+- Joint active and passive localization framework against clock drifts \n
+- Passive anchor assisted localization scheme \n
+- Bluetooth indoor localization algorithm design \n
+- Localizability of large-scale networks \n
+- Algorithm design and hardware implementation of indoor localization for Wi-Fi devices based on tensor decomposition \n
+
+== Representative research works
+
+~~~
+{}{img_left}{Network_img\\1.png}{alt text}{400}
+- Relative localization: A theoretical analysis framework in terms of the constraint CRLB of EFIM is derived, and the geometry merging and geometry transforming algorithms for relative localization are designed. We further analyze the characteristics of resource allocation for relative localization, and design a corresponding resource allocation algorithm. (IEEE Transactions on Vehicular Technology, 69(10), 11756-11770. 2020)
+~~~
+\n
+~~~
+{}{img_left}{Network_img\\2.png}{alt text}{400}
+- Polarization-sensitive-array-based BLE localization system: We design and implement a real-time single anchor polarization-sensitive-array-based BLE localization system using angular information, which achieves a median accuracy of 30cm.
+~~~
+\n
+~~~
+{}{img_left}{Network_img\\3.jpg}{alt text}{400}
+- 5G positioning system based on SRS signal: We propose a three-dimensional SAGIN localization scheme for ground agents utilizing multi-source information from satellites, base stations and unmanned aerial vehicles.
+~~~
+\n
+~~~
+{}{img_left}{Network_img\\4.png}{alt text}{400}
+- Network localization and synchronization using full-duplex radios: We propose NLS schemes using full-duplex radios, where internode distances and clock offsets can be estimated through only two frames of transmission. (IEEE Transactions on Signal Processing, 66(3), 714-728, (2018))
+~~~
+\n
+~~~
+{}{img_left}{Network_img\\5.png}{alt text}{400}
+- Beamspace direct localization: We prove that the high-dimensional array signal can be represented in a low-dimensional beamspace without information loss and further propose a robust beamspace design strategy. (IEEE Transactions on Signal Processing, 68(5), 3529-3544. (2020))
+~~~
+\n
+~~~
+{}{img_left}{Network_img\\6.png}{alt text}{400}
+- Tensor-based multipath estimation: We explore the inherent structure in the measurements and the uniqueness of tensor factorization, which prevents from implementing complicated data association steps.
+~~~
+\n
+~~~
+{}{img_left}{Network_img\\7.png}{alt text}{400}
+- Joint active and passive localization framework against clock drifts: We design a network ranging method with a minimum number of signal transmissions. (International Conference on Wireless Communications and Signal Processing. (2019))
+~~~
+\n
+~~~
+{}{img_left}{Network_img\\8.png}{alt text}{400}
+- We propose a maximum likelihood estimator to jointly estimate the TDOA and the clock skews of passive anchors, and achieve 20 cm localization accuracy with only one passive anchor in NLOS environments.
+~~~
+\n
+~~~
+{}{img_left}{Network_img\\9.png}{alt text}{400}
+- We propose a BLE single anchor localization solution, designed a real-time localizing and tracking system by combining AOA, signal strength and Kalman filter. (IEEE International Conference on Communications Workshops, (2020))
+~~~
+\n
+- We introduce the Percolation Theory in the cooperative network localization problem, prove the existence of the critical node intensity for the localizability of large-scale networks. (2018 IEEE International Conference on Communications)

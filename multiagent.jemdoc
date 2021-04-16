@@ -1,0 +1,59 @@
+# jemdoc: menu{MENU}{multiagent.html}
+= Cooperative Multi-agent Networks
+
+== Research summary
+Multi-agent networks have exhibited increasingly prominent features of self-adaptation and collaboration due to the rapid development of information technology. The study of cooperative sensing and communication for autonomous unmanned systems, as well as cooperative control and optimization decision-making, and the formation of an innovative theoretical system framework for autonomous intelligent unmanned systems are of great significance to the growth of smart industries and the cultivation of smart society. Collaboration capability for multi-agent mobile networks has huge application potential and practical value in both military and civilian scenarios. \n
+
+We are focusing on the following research directions: 
+- Cooperative detection in mobile multi-agent networks; 
+- Large-scale cooperative localization
+- Joint localization and formation of multi-agent networks
+- Cooperative visual perception in multi-agent networks
+- Flocking algorithm with collision avoidance
+- Theoretical framework and algorithm design of multi-agent cooperative formation based on integrated localization and control
+- Information coupling theory in cooperative localization networks
+- Cooperative scheduling of high-dynamic intelligent systems
+- Deep reinforcement learning algorithm for multi-agent networks
+
+== Representative works
+
+~~~
+{}{img_left}{multiagent_img\\1.png}{alt text}{400}
+- Cooperative detection in mobile multi-agent networks: We propose a cooperative detection scheme for non-cooperative targets, and design a GLRT detector to realize joint position self-calibration and target detection. (IEEE Transactions on Signal Processing, 68(9), 5411-5426, (2020))
+~~~
+\n
+- Large-scale cooperative localization: We develop a large-scale cooperative localization based on passive extended double-sided two-way ranging (PE-DSTER). Angle measurement information of UWB antenna array is further exploited for improving the positioning accuracy. 
+\n
+~~~
+{}{img_left}{multiagent_img\\2.png}{alt text}{400}
+- Joint localization and formation of multi-agent networks: We design a new index reflecting the formation performance. The formation performance when there are statistical errors in positioning and control is analyzed.
+~~~
+\n
+~~~
+{}{img_left}{multiagent_img\\3.png}{alt text}{400}
+- We propose a statistical framework for cooperative visual 3D perception in multi-agent networks. A metric based on statistical analysis is designed to evaluate the dependence of reconstruction quality on visual sensor deployment. The temporal and spatial cooperation for optimal sensor deployment is exploited. (IEEE Sensors Journal, Early Access, (2021)).
+~~~
+\n
+~~~
+{}{img_left}{multiagent_img\\4.png}{alt text}{400}
+- We propose a new flocking algorithm with collision avoidance by constructing a novel potential function. The stability under observation and control noise is proved using Lyapunov functions. 
+~~~
+\n
+~~~
+{}{img_left}{multiagent_img\\5.png}{alt text}{400}
+- A distributed formation algorithm based on the integrated framework of localization and control is proposed, which can achieve near-optimal accuracy (close to the fundamental limit), and has strong robustness to measurement and control noise. (IEEE Global Communications Conference (2020))
+~~~
+\n
+~~~
+{}{img_left}{multiagent_img\\6.png}{alt text}{400}
+- We develop a general approach to characterize the spatial information coupling effect in relative localization and present a geometric interpretation for the cooperation efficiency between two agents. 
+~~~
+\n
+
+- We establish a framework of intersection vehicle scheduling problem and provide an algorithm of determining decision times and making decisions with limit state information. (2020 IEEE Intelligent Transportation Systems Conference)
+\n
+~~~
+{}{img_left}{multiagent_img\\7.png}{alt text}{400}{300}
+- We provide a distributed long-horizon vehicle scheduling algorithm for traffic intersection with delayed information, provide the convergence guarantee for any finite vehicle sequence. (2020 IEEE Global Communications Conference)
+~~~
+\n

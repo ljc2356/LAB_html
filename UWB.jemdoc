@@ -1,0 +1,56 @@
+# jemdoc: menu{MENU}{UWB.html}
+= UWB Localization Systems and Machine Learning
+
+== Research summary
+
+Radio frequency (RF) signals are widely used for indoor localization, such as Bluetooth, Wi-Fi, and radio-frequency identification (RFID)-based localization systems. However, it is challenging for these RF technologies to achieve sub-meter level accuracy and robust localization. The ultra-wideband (UWB) signal can enable high-accuracy localization considering its following unique advantages:
+- sub-nanosecond-level time stamps; 
+- strong resistance to MPCs; 
+- high throughput and transfer rate.
+
+  We are focusing on the following research directions:
+
+- NLOS error mitigation based on self-training learning in RF environment;
+- UAltra-wideband array localization system using wrapped PDoA; 
+- Single-anchor localization system based on ultra-wide bandwidth signals; 
+- Bayesian modelling for domain data and blind single-image super-resolution; 
+- UWB multipath component identification and SLAM;  
+- Machine learning algorithm on NLOS error mitigation.
+
+== Representative works
+~~~
+{}{img_left}{UWB_img\\1.png}{alt text}{400}
+- We propose a self-training learning scheme for RF environment, and design a multi-sensory information fusion localization system based on inertial sensors, map and UWB. The NLOS ranging error is reduced by more than 75% and results in 90th percentile of final localization error achieving 0.5m in a complex indoor environment.
+~~~
+
+\n
+
+~~~
+{}{img_left}{UWB_img\\UWB2.png}{alt text}{400}
+- We develop a SAL system which achieves 3D high-accuracy localization using time and wrapped phase measurements of UWB signals, and achieve decimeter-level localization accuracy in outdoor and indoor environments. (F. Ge and Y. Shen,''Single-Anchor Ultra-Wideband Localization System using Wrapped PDoA'', submitted to IEEE Trans. Mobile Comput.)
+~~~
+
+\n
+
+~~~
+{}{img_left}{UWB_img\\UWB3.png}{alt text}{400}
+- A single-anchor localization method that achieves high-accuracy multi-agent localization with high efficiency is proposed. The proposed method can achieve decimeter-level accuracy for multiple agents using three messages. Our method provides design guidelines for high-accuracy and high-efficiency multi-agent localization systems. （Applied Sciences 2020, 10, 57.）
+~~~
+\n
+- We propose a variational Bayesian domain transfer network (VBDTN) that achieves automatic semantic editing as well as efficient unsupervised translation from the source domain towards a mixture of several target domains.
+\n
+
+~~~
+{}{img_left}{UWB_img\\UWB4.png}{alt text}{400}
+
+- We propose an expectation-maximization network for the blind SISR problem, namely SREMN, which enables efficient image restoring under a more general degradation assumption in both supervised and semi-supervised manner.
+~~~
+
+\n
+~~~ 
+{}{img_left}{UWB_img\\UWB5.png}{alt text}{400}
+~~~
+\n
+~~~
+{}{img_left}{UWB_img\\UWB6.png}{alt text}{400}
+~~~

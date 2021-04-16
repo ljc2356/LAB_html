@@ -1,0 +1,139 @@
+# jemdoc: menu{MENU}{pub.html}, notime, nodate
+= Yuan Shen -- Publications
+
+Google Scholar Site: 
+[https://scholar.google.com/citations?user=1mDpUSgAAAAJ]
+
+== Journal Papers
+. K. Gu, Y. Wang, and Y. Shen,``Cooperative detection by multiagent networks in the presence of position uncertainty,'' /IEEE Trans. Signal Process./, 2020, to appear.\n
+. Y. Liu, Y. Wang, J. Wang, and Y. Shen, “Distributed 3D relative localization of UAVs,” /IEEE Trans. Veh. Technol./,2020, to appear.\n
+. J. Zhang, J. Du, Y. Shen, and J. Wang, “Dynamic computation offloading with energy harvesting devices: A hybrid decision based deep reinforcement learning approach,” /IEEE Internet Things J./, pp. 783–797, Jun. 2020.
+. Y. Wang, K. Gu, Y. Wu, W. Dai, and Y. Shen, “NLOS effect mitigation via spatial geometry exploitation in cooperative localization,” /IEEE Trans. Wireless Commun./, vol. 19, no. 9,pp. 6037–6049, Jun. 2020.
+. H. Zhao, N. Zhang, and Y. Shen, “Beamspace direct localization for large-scale antenna array systems,” /IEEE Trans. Signal Process./, vol. 68, pp. 3529–3544, May 2020.
+. Y. Wang, Y. Wu, and Y. Shen, “Cooperative tracking by multi-agent systems using signals of opportunity,” /IEEE Trans.Commun./, vol. 68, no. 1, pp. 93–105, Jan. 2020.
+. T. Wang, H. Zhao, and Y. Shen, “An efficient single-anchor localization method using ultra-wide bandwidth systems,” /Appl.Sci./, vol. 10, no. 1, p. 57, Jan. 2020.
+. Y. Cai and Y. Shen, “An integrated localization and control framework for multi-agent formation,” /IEEE Trans. Signal Process./, vol. 67, no. 7, pp. 1941 – 1956, Apr. 2019.
+. C. Wang, J. Wang, Y. Shen, and X. Zhang, “Autonomous navigation of UAVs in large-scale complex environments: A deep reinforcement learning approach,” /IEEE Trans. Veh.Technol./, vol. 68, no. 3, pp. 2124–2136, Mar. 2019.
+. Y. Liu, Y. Shen, and M. Z. Win, “Single-anchor localization and synchronization of full-duplex agents,” /IEEE Trans. Commun./, vol. 67, no. 3, pp. 2355–2367, Mar. 2019.
+. Y. Wang, Y. Wu, and Y. Shen, “Joint spatiotemporal multipath mitigation in large-scale array localization,” /IEEE Trans.Signal Process./, vol. 67, no. 3, pp. 783–797, Feb. 2019.
+. M. Hu, H. Yu, K. Gu, Z. Wang, H. Ruan, K. Wang, S. Ren,B. Li, L. Gan, S. Xu, G. Yang, Y. Shen, and X. Li, “A particle-filter framework for robust cryo-EM 3D reconstruction,” /Nat.Methods/, vol. 15, no. 12, pp. 1083–1089, Dec. 2018.
+. S. Mazuelas, Y. Shen, and M. Z. Win, “Spatiotemporal information coupling in network navigation,” /IEEE Trans. Inf.Theory/, vol. 64, no. 12, pp. 7759 – 7779, Dec. 2018.
+. C. Jin, B. Chang, G. Zhao, Z. Chen, and Y. Shen, “Localizing noncooperative receiver through full-duplex amplify-andforward relay,” /IEEE Access/, vol. 6, pp. 65 824 – 65 836, 2018.
+. M. Z. Win, W. Dai, Y. Shen, G. Chrisikos, and H. V. Poor, “Network operation strategies for efficient localization and navigation,” /Proc. IEEE/, vol. 106, no. 7, pp. 1224–1254, Jul.2018.
+. M. Z. Win, Y. Shen, and W. Dai, “A theoretical foundation of network localization and navigation,” /Proc. IEEE, vol/. 106, no. 7, pp. 1136–1165, Jul. 2018.
+. Y. Wang, Y. Wu, D. Wang, and Y. Shen, “TDOA and FDOA based source localization via importance sampling,” /IET Signal Processing/, vol. 12, no. 7, p. 917 – 929, Sep. 2018.
+. T. Yu and Y. Shen, “Asymptotic performance analysis for landmark learning in indoor localization,” /IEEE Commun. Lett./, vol. 22, no. 4, pp. 740–743, Apr. 2018.
+. W. Dai, Y. Shen, and M. Z. Win, “A computational geometry framework for efficient network localization,” /IEEE Trans. Inf.Theory/, vol. 64, no. 2, pp. 1317–1339, Feb. 2018.
+. Y. Liu, Y. Shen, D. Guo, and M. Z. Win, “Network localization and synchronization using full-duplex radios,” /IEEE Trans.Signal Process./, vol. 66, no. 3, pp. 714–728, Feb 2018.
+. Y. Xiong, N. Wu, Y. Shen, and M. Z. Win, “Cooperative network synchronization: Asymptotic analysis,” /IEEE Trans.Signal Process./, vol. 66, no. 3, pp. 757–772, Feb. 2018.
+. T. Wang, Y. Shen, A. Conti, and M. Z. Win, “Network navigation with scheduling: Error evolution,” /IEEE Trans. Inf.Theory/, vol. 63, no. 11, pp. 7509–7534, Nov. 2017.
+. J. Wang and Y. Shen, “On the discretization schemes in mapaided indoor localization,” /IEEE Commun. Lett./, vol. 21, no. 7, pp. 1629–1632, Jul. 2017.
+. F. Zhou and Y. Shen, “On the outage probability of localization in randomly deployed wireless networks,” /IEEE Commun.Lett./, vol. 21, no. 4, pp. 901–904, Apr. 2017.
+. J. Chen, W. Dai, Y. Shen, V. K. N. Lau, and M. Z. Win, “Resource management games for distributed network localization,” /IEEE J. Sel. Areas Commun./, vol. 35, no. 2, pp. 317–329, Feb. 2017.
+. J. Chen, W. Dai, Y. Shen, V. K. N. Lau, and M. Z. Win, “Power management for cooperative localization: A game theoretical approach,” /IEEE Signal Process. Mag./,vol. 64, no. 24, pp. 6517–6532, Dec. 2016.
+. T. Zhang, A. F. Molisch, Y. Shen, Q. Zhang, H. Feng, and M. Z. Win, “Joint power and bandwidth allocation in wireless cooperative localization networks,” /IEEE Trans. Wireless Commun./, vol. 15, no. 10, pp. 6527–6540, Oct. 2016.
+. K. Witrisal, P. Meissner, E. Leitinger, Y. Shen, C. Gustafson, F. Tufvesson, K. Haneda, D. Dardari, A. F. Molisch, A. Conti, and M. Z. Win, “High-accuracy localization for assisted living: 5G systems will turn multipath channels from foe to friend,” /IEEE Signal Process. Mag./, vol. 33, no. 2, pp. 59–70, Mar. 2016.
+. Y. Han, Y. Shen, X. P. Zhang, M. Z. Win, and H. Meng, “Performance limits and geometric properties of array localization,” /IEEE Trans. Inf. Theory/, vol. 62, no. 2, pp. 1054–1075, Feb. 2016.
+. W.~Dai, Y.~Shen, and M.~Z.~Win, ``Energy-efficient network navigation algorithms,'' /IEEE J. Sel. Areas Commun./, vol.~33, no.~7, pp. 1418--1430, Jul. 2015.\n
+. M.~Z.~Win, R.~Ruan, A.~Rabbachin, Y.~Shen, and A.~Conti, ``Multi-tier network secrecy in the ether,'' /IEEE Commun. Mag./, vol.~53, no.~6, pp. 28--32, Jun. 2015.\n
+. W.~Dai, Y.~Shen, and M.~Z.~Win, ``Distributed power allocation for cooperative network localization,'' /IEEE J. Sel. Areas Commun./, vol.~31, no.~1, pp. 28--40, Jan. 2015.\n
+. Y.~Shen, W.~Dai, and M.~Z. Win, ``Power optimization for network localization,'' /IEEE\/ACM Trans. Netw./, vol.~22, no.~4, pp. 1337--1350, Aug.~2014.\n
+. T. Wang, Y.~Shen, S.~Mazuelas, H.~Shin, and M.~Z. Win, ``On OFDM ranging accuracy in multipath channels,'' /IEEE Syst. J./, vol.~8, no.~1, pp. 104--114, Mar.~2014.\n
+. W. W.-L. Li, Y.~Shen, Y.-J. Zhang, and M.~Z. Win, ``Robust power allocation for energy-efficient location-aware networks,'' /IEEE\/ACM Trans. Netw./, vol.~21, no.~6, pp. 1918--1930, Dec.~2013.\n
+. Y.~Shen and M.~Z. Win, ``Intrinsic information of wideband channels,'' /IEEE J. Sel. Areas Commun./, vol.~31, no.~9, pp. 1875--1888, Sep.~2013.\n
+. S.~Mazuelas, Y.~Shen, and M.~Z. Win, ``Belief condensation filtering,'' /IEEE Trans. Sig. Process./, vol.~61, no.~18, pp. 4403--4415, Sep.~2013.\n
+. Y.~Shen, S.~Mazuelas, and M.~Z. Win, ``Network navigation: Theory and Interpretation,'' /IEEE J. Sel. Areas Commun./, vol.~30, no.~10, pp. 1823--1834, Oct. 2012.\n
+. Y.~Shen, T.~Luo, and M.~Z. Win, ``Neighboring cell search for LTE systems,'' /IEEE Trans. Wireless Commun./, vol.~11, no.~3, pp. 908--919, Mar. 2012.\n
+. S.~Mazuelas, Y.~Shen, and M.~Z. Win, ``Information coupling in cooperative localization,'' /IEEE Commun. Lett./, vol.~15, no.~7, pp. 737--739, Jul. 2011.\n
+. M.~Z. Win, A.~Conti, S.~Mazuelas, Y.~Shen, W.~M. Gifford, D.~Dardari, and M.~Chiani, ``Network localization and navigation via cooperation,'' /IEEE Commun. Mag./, vol.~49, no.~5, pp. 56--62, May 2011, *The IEEE Communications Society Fred W. Ellersick Prize*.\n
+. Y.~Shen, H.~Wymeersch, and M.~Z. Win, ``Fundamental limits of wideband localization -- Part II: Cooperative networks,'' /IEEE Trans. Inf. Theory/, vol.~56, no.~10, pp. 4981--5000, Oct. 2010.\n
+. Y.~Shen and M.~Z. Win, ``Fundamental limits of wideband localization -- Part I: A general framework,'' /IEEE Trans. Inf. Theory/, vol.~56, no.~10, pp. 4956--4980, Oct. 2010.\n
+. Y.~Shen and M.~Z. Win, ``On the accuracy of localization systems using wideband antenna arrays,'' /IEEE Trans. Commun./, vol.~58, no.~1, pp. 270--280, Jan. 2010.
+
+== Conference Papers
+
+. K. Ma and Y. Shen, “Distributed formation algorithm based on integrated localization and control,” in Proc. /IEEE Global Telecomm. Conf./, Taipei, China, Dec. 2020, pp. 1–5.
+. F. Yang and Y. Shen, “Distributed long-horizon vehicle scheduling for traffic intersection with delayed information,” in /Proc. IEEE Global Telecomm. Conf./, Taipei, China, Dec. 2020, pp. 1–6.
+. F. Yang and Y. Shen,, “An adaptive approach for intersection vehicle scheduling with limited state information,” in /Proc. IEEE Int. Conf. Intell. Transport. Syst./, Rhodes, Greece, Sep. 2020, pp. 1–6.
+. J. Zhang, J. Du, J. Wang, and Y. Shen, “Hybrid decision based deep reinforcement learning for energy harvesting enabled mobile edge computing,” in /Proc. Int. Wireless Commun. and Mobile Computing/, Limassol, Cyprus, Jun. 2020, pp. 1–6.
+. Y. Huang, F. Zhu, Z. Zeng, X. Qiu, and Y. Shen, “SQE: a selfquality evality evaluation metric for parameters optimization in multi-object tracking,” in /Proc. IEEE Conf. Computer Vision and Pattern Recognition/, Seattle, United States, Jun. 2020, pp. 1–9.
+. X. Qiu, B. Wang, J. Wang, and Y. Shen, “AOA-based BLE localization with carrier frequency offset mitigation,” in /Proc. IEEE Int. Conf. Commun. Workshop/, Dublin, Ireland, Jun. 2020, pp. 1–5.
+. X. Li, X. Qiu, J. Wang, and Y. Shen, “A deep reinforcement learning based approach for autonomous overtaking,” in /Proc. IEEE Int. Conf. Commun. Workshop/, Dublin, Ireland, Jun. 2020, pp. 1–5.
+. H. Zhao, N. Zhang, J. Wang, and Y. Shen, “Signal dimension, reduction for array localization systems in multipath environments,” in/ Proc. IEEE Int. Conf. Commun./, Dublin, Ireland, Jun. 2020, pp. 1–6.
+. J. Zhang, J. Du, C. Jiang, Y. Shen, and J. Wang, “Computation offloading in energy harvesting systems via continuous deep reinforcement learning,” in /Proc. IEEE Int. Conf. Commun./, Dublin, Ireland, Jun. 2020, pp. 1–6.
+. Q. An and Y. Shen, “Camera configuration design in cooperative active visual 3D reconstruction: A statistical approach,” in /Proc. IEEE Int. Conf. Acoust., Speech and Signal Process./, Barcelona, Spain, May 2020, pp. 1–5.
+. F. Zhang, K. Gu, and Y. Shen, “Cooperative vision-based localization networks with communication constraints,” in /Proc. IEEE Global Telecomm. Conf./, Hawaii, USA, Dec. 2019, pp. 1–6.
+. Q. An and Y. Shen, “On the performance analysis of active visual 3D reconstruction in multi-agent networks,” in /Proc. Int. Conf. on Wireless Commun. and Signal Process./, Xi’an, China, Oct. 2019, pp. 1–5.
+. Z. Zhang, H. Zhao, and Y. Shen, “High-efficient ranging algorithms for wireless sensor network,” in /Proc. Int. Conf. on Wireless Commun. and Signal Process./, Xi’an, China, Oct. 2019, pp. 1–6.
+. T. Wang, H. Zhao, and Y. Shen, “High-accuracy localization using single-anchor ultra-wide bandwidth systems,” in /Proc. IEEE Int. Conf. Commun. in China/, Changchun, China, Aug. 2019, pp. 1–5.
+. X. Li, K. Ma, J. Wang, and Y. Shen, “An integrated design of cooperative localization and motion control,” in /Proc. IEEE Int. Conf. Commun. in China/, Changchun, China, Aug. 2019,pp. 1–5.
+. Y. Liu, W. Li, Q. Lu, J. Wang, and Y. Shen, “Relative localization of ground vehicles using non-terrestrial networks,” in /Proc. IEEE Int. Conf. Commun. Workshop in China/, Changchun, China, Aug. 2019, pp. 1–5.
+. Y. Wang, K. Gu, Y. Wu, W. Dai, and Y. Shen, “Exploiting NLOS bias correlation in cooperative localization,” in /Proc. IEEE Int. Conf. Commun. Workshop/, Shanghai, China, May 2019, pp. 1–5.
+. Y. Xiong, N. Wu, Y. Shen, and M. Z. Win, “Efficiency of cooperation and its geometric interpretation in network localization,” in /Proc. IEEE Int. Conf. Commun. Workshop/, Shanghai, China, May 2019, pp. 1–6.
+. Y. Liu, Y. Shen, and M. Z. Win, “Joint position and velocity estimation for cooperative networks using full-duplex radios,” in /Proc. IEEE Int. Conf. Commun. Workshop/, Shanghai, China, May 2019, pp. 1–6.
+. Y. Wang, Y. Wu, and Y. Shen, “Performance limits of cooperative localization using signals of opportunity in array networks,” in /Proc. IEEE Int. Conf. Commun./, Shanghai, China, May 2019, pp. 1–6.
+. K. Gu, Y. Wang, J. Wang, and Y. Shen, “On the performance analysis of cooperative detection in mobile multi-agent networks,” in /Proc. IEEE Int. Conf. Commun./, Shanghai, China, May 2019, pp. 1–6.
+. H. Zhao, N. Zhang, and Y. Shen, “Robust beamspace design for direct localization,” in /Proc. IEEE Int. Conf. Acoust., Speech and Signal Process./, Brighton, UK, May 2019, pp.1–5.
+. K. Gu and Y. Shen, “Cooperative detection via direct localization in mobile multi-agent networks,” in /Proc. IEEE Int. Conf. Acoust., Speech and Signal Process./, Brighton, UK, May 2019, pp. 1–5.
+. F. Ge and Y. Shen, “Real-time indoor localization on smartphones by multi-grained grid-based filters,” in /Proc. IEEE Global Telecomm. Conf./, Abu Dhabi, United Arab Emirates, Dec. 2018, pp. 1–6.
+. C. Mao, K. Lin, T. Yu, and Y. Shen, “A probabilistic learning approach to UWB ranging error mitigation,” in /Proc. IEEE Global Telecomm. Conf./, Abu Dhabi, United Arab Emirates, Dec. 2018, pp. 1–6.
+. Y. Liu, Y. Shen, and M. Z. Win, “Single-anchor passive localization of full-duplex agents,” in /Proc. IEEE Int. Conf. Commun./ Workshop, Kansas City, MO, USA, May 2018, pp. 1–5.
+. Y. Liu, J. Wang, and Y. Shen, “Spectrum allocation for UAVaided relative localization of ground vehicles,” in /Proc. IEEE Int. Conf. Commun./ Workshop, Kansas City, MO, USA, May 2018, pp. 1–5.
+. Y. Liu and Y. Shen, “UAV-aided high-accuracy relative localization of ground vehicles,” in /Proc. IEEE Int. Conf. Commun./, Kansas City, MO, USA, May 2018, pp. 1–6.
+. Y. Cai and Y. Shen, “Integrated localization and control for accurate multi-agent formation,” in /Proc. IEEE Int. Conf. /Commun., Kansas City, MO, USA, May 2018, pp. 1–6.
+. H. Zhao and L. Z. and; Yuan Shen, “On the optimal beamspace design for direct localization systems,” in /Proc. IEEE Int. Conf. Commun./, Kansas City, MO, USA, May 2018, pp. 1–6.
+. F. Yang, F. Zhou, and Y. Shen, “On the existence of infinite localizable nodes in stochastic networks,” in /Proc. IEEE Int. Conf. Commun./, Kansas city, USA, May 2018, pp. 1–5.
+. Y. Xiong, N. Wu, Y. Shen, J. Kuang, and M. Z. Win, “On information coupling in cooperative network synchronization,” in /Proc. IEEE Int. Conf. Acoust., Speech and Signal Process./,Calgary, AB, Canada, Apr. 2018, pp. 1–5.
+. Y. Wang, Y. Wu, and Y. Shen, “Multipath effect mitigation by joint spatiotemporal separation in large-scale array localization,” in /Proc. IEEE Global Telecomm. Conf./, Singapore, Dec. 2017, pp. 1–6.
+. Y. Liu, Q. Liu, and Y. Shen, “A distributed localization and synchronization algorithm for full-duplex transmission systems,” in /Proc. IEEE Int. Conf. Commun. in China/, Qingdao, China, Oct. 2017, pp. 1–5.
+. Y. Wang, Y. Wu, and Y. Shen, “An efficient TDOA and FDOA based source localization via importance sampling,” in /Proc. IEEE Int. Conf. Commun. in China/, Qingdao, China, Oct. 2017, pp. 1–6.
+. L. Yan, S. Yuan, G. Dongning, and W. M. Z., “Localization and
+synchronization in wireless networks using full-duplex radios,” in /Proc. IEEE Int. Conf. Commun./, Paris, France, May 2017, pp. 6702–6707.
+. Z. Cheng, Y. Wang, and Y. Shen, “Direct position determination of multiple targets via reduced-dimension beamspace,” in /Proc. IEEE Int. Conf. Commun. Workshop/, Paris, France, May 2017, pp. 122–127.
+. H. Hu and Y. Shen, “Resource allocation for mobile sensing in wireless networks,” in /Proc. IEEE Global Telecomm. Conf./, Washington, USA, Dec. 2016, pp. 1–6.
+. K. Zhang, Y. Shen, and M. Z. Win, “On the performance of map-aware cooperative localization,” in /Proc. IEEE Int. Conf. Commun./, Kuala Lumpur, Malaysia, May 2016, pp. 1–6.
+. B. Zhang, Y. Shen, and L. Zhang, “Inferring building occupancy based on statistical modeling of multi-sensor data,” in/ Proc. Int. Conf. on Autom. Sci. and Eng./, Fort Worth, Texas, USA, Aug. 2016, pp. 809–814.
+. K.~Zhang, H.~Hu, W.~Dai, Y.~Shen, and M.~Z.~Win, ``An area state-aided indoor localization algorithm and its implementation,'' in /Proc. IEEE Int. Conf. on Commun. Workshop/, London, UK, Jun. 2015, pp. 1--6.\n
+. Y.~Shen and M.~Z.~Win, ``On secret-key generation using wideband channels in mobile networks,'' in /Proc. IEEE Int. Conf. on Commun./, London, UK, Jun. 2015, pp. 1--6.\n
+. T.~Wang, Y.~Shen, and M.~Z.~Win, ``Analysis of network navigation with scheduling strategies,'' in /Proc. IEEE Int. Conf. on Commun./, London, UK, Jun. 2015, pp. 1--6.\n
+. J.~Chen, W.~Dai, Y.~Shen, V.~K.~N.~Lau, and M.~Z.~Win, ``Power management game for cooperative localization in asynchronous networks,'' in /Proc. IEEE Int. Conf. on Commun./, London, UK, Jun. 2015, pp. 1--6.\n
+. W.~Dai, Y.~Shen, and M.~Z.~Win, ``Network navigation algorithms with power control,'' in /Proc. IEEE Wireless Commun. and Networking Conf.、, New Orleans, LA, Mar. 2015, pp. 1--6.\n
+. W.~Dai, Y.~Shen, and M.~Z.~Win, ``A computational geometry method for resource allocation in network localization,'' in /Proc. IEEE Wireless Commun. and Networking Conf./, New Orleans, LA, Mar. 2015, pp. 1--6.\n
+. W.~Li, T.~Zhang, Y.~Shen, A.~F.~Molisch, and Q.~Zhang, ``Robust resource allocation in wireless localization networks,'' in /Proc. IEEE/CIC Int. Conf. on Commun. in China/, Shanghai, China, Oct. 2014, pp. 442--447.\n	
+. T.~Wang, Y.~Shen, and M.~Z.~Win, ``A general analytical framework of scheduling algorithms for network navigation,'' in /Proc. IEEE Int. Conf. on Commun./, Sydney, Australia, Jun. 2014, pp. 4583--4588.\n
+. W.~Dai, Y.~Shen, and M.~Z.~Win, ``Energy-efficient cooperative network localization,'' in /Proc. IEEE Int. Conf. on Commun./, Sydney, Australia, Jun. 2014, pp. 4969--4974.\n
+. T.~Zhang, A.~F.~Molisch, Y.~Shen, Q.~Zhang, and M.~Z.~Win, ``Joint power and bandwidth allocation in cooperative wireless localization networks,'' in /Proc. IEEE Int. Conf. on Commun./, Sydney, Australia, Jun. 2014, pp. 2611--2016.
+. Y.~Han, H.~Meng, Y.~Shen, Y.~Liu, ``Fundamental localization accuracy in narrowband array-based systems,'' in /Proc. IEEE Int. Conf. Acoustics, Speech, and Signal Process./, Florence, Italy, May 2014, pp. 4668--4672.
+. T.~Wang, Y.~Shen, and M.~Z.~Win, ``On the Stability of Scheduling Algorithms for Network Navigation,'' in /Proc. IEEE Global Commun. Conf./, Atlanta, GA, Dec. 2013, pp. 3412--3417.
+. Y.~Shen, W.~Dai, and M.~Z.~Win, ``Robust power allocation for active and passive localization,'' in /Proc. IEEE Int. Conf. on Commun./, Budapest, Hungary, Jun. 2013, pp. 4802--4807.
+. W.~Dai, Y.~Shen, and M.~Z.~Win, ``Sparsity-inspired power allocation algorithms for network localization,'' in /Proc. IEEE Int. Conf. on Commun./, Budapest, Hungary, Jun. 2013, pp. 2785--2790.
+. Y.~Shen, W.~Dai, and M.~Z.~Win, ``Optimal power allocation for active and passive localization,'' in /Proc. IEEE Global Commun. Conf./, Anaheim, CA, Dec. 2012, pp. 3737--3742.
+. S.~Mazuelas, Y.~Shen, and M.~Z.~Win, ``Spatio-temporal information coupling in cooperative navigation,'' in /Proc. IEEE Global Commun. Conf./, Anaheim, CA, Dec. 2012, pp. 2427--2431.
+. W.~Dai, Y.~Shen, and M.~Z.~Win, ``On the minimum number of active anchors for optimal localization,'' in /Proc. IEEE Global Commun. Conf./, Anaheim, CA, Dec. 2012, pp. 5173--5178.
+. S.~Mazuelas, Y.~Shen, and M.~Z.~Win, ``Framework of belief condensation filtering and deterministic discrete filters,''in /Proc. IEEE Int. Conf. on Ultra-Wideband/, Syracuse, NY, Sep. 2012, pp. 1-5, *Invited Paper*.\n
+. T.~Wang, Y.~Shen, S.~Mazuelas, and M.~Z. Win, ``Distributed scheduling for cooperative localization based on information evolution,'' in /Proc. IEEE Int. Conf. on Commun./, Ottawa, Canada, Jun. 2012, pp. 576--580.\n
+. W.~W.-L. Li, Y.~Shen, Y.-J. Zhang, and M.~Z. Win, ``Robust power allocation via semidefinite programming for wireless localization,'' in /Proc. IEEE Int. Conf. on Commun./, Ottawa, Canada, Jun. 2012, pp. 3595--3599.\n
+. W.~W.-L. Li, Y.~Shen, Y.-J. Zhang, and M.~Z. Win, ``Doubly robust power optimization for network localization,'' in /Proc. Conf. on Inform. Sci. and Sys./, Mar. 2012, pp. 1-6, *Invited Paper*.\n
+. Y.~Shen, S.~Mazuelas, and M.~Z. Win, ``A theoretical foundation of network navigation,'' in /Proc. IEEE Global Commun. Conf./, Houston, TX, Dec. 2011, pp. 1--6, *Best Paper Award*.\n
+. S.~Mazuelas, Y.~Shen, and M.~Z. Win, ``Wideband cooperative localization via belief condensation,'' in /Proc. IEEE Int. Conf. on Ultra-Wideband/, Bologna, Italy, Sep. 2011, pp. 150--154, *Best Paper Award*.\n
+. T.~Wang, Y.~Shen, S.~Mazuelas, and M.~Z. Win, ``Bounds for OFDM ranging accuracy in multipath channels,'' in /Proc. IEEE Int. Conf. on Ultra-Wideband/, Bologna, Italy, Sep. 2011, pp. 450--454.\n
+. S.~Mazuelas, Y.~Shen, and M.~Z. Win, ``Belief condensation filter for navigation in harsh environments,'' in /Proc. IEEE Int. Conf. on Commun./, Kyoto, Japan, Jun. 2011, pp. 1--6.\n
+. W.~W.-L. Li, Y.~Shen, Y.-J. Zhang, and M.~Z. Win, ``Efficient anchor power allocation for location-aware networks,'' in /Proc. IEEE Int. Conf. on Commun./, Kyoto, Japan, Jun. 2011, pp. 1--6.\n
+. Y.~Shen, T.~Luo, and M.~Z. Win, ``Neighboring cell search techniques for LTE systems,'' in /Proc. IEEE Int. Conf. on Commun./, Cape Town, South Africa, May 2010, pp. 1--6.\n
+. Y.~Shen and M.~Z. Win, ``On the use of multipath geometry for wideband cooperative localization,'' in /Proc. IEEE Global Commun. Conf./, Honolulu, HI, Dec. 2009, pp. 1--6.\n
+. Y.~Shen, R.~Samadani, and M.~Trott, ``Image matting from a physical perspective,'' in /Proc. Asilomar Conf. on Signals, Systems, and Computers/, Pacific Grove, CA, Nov. 200p, pp. 841--845, *Invited Paper*.\n
+. M.~Z. Win, Y.~Shen, and Henk Wymeersch, ``On the position error bound in cooperative networks: A geometric approach,'' in /Proc. IEEE Int. Symp. on Spread Spectrum Techniques \& Applications/, Bologna, Italy, Aug. 2008, pp. 637--643, *Invited Paper*.\n
+. Y.~Shen and M.~Z. Win, ``Effect of path-overlap on localization accuracy in dense multipath environments,'' in /Proc. IEEE Int. Conf. on Commun./, Beijing, China, May 2008, pp. 4197--4202.\n
+. Y.~Shen and M.~Z. Win, ``Energy efficient location-aware networks,'' in /Proc. IEEE Int. Conf. on Commun./, Beijing, China, May 2008, pp. 2995--3001.\n
+. Y.~Shen and M.~Z. Win, ``Performance of localization and orientation using wideband antenna arrays,'' in /Proc. IEEE Int. Conf. on Ultra-Wideband/, Singapore, Sep. 2007, pp. 288--293.\n
+. Y.~Shen, H.~Wymeersch, and M.~Z. Win, ``Fundamental limits of wideband cooperative localization via Fisher information,'' in /Proc. IEEE Wireless Commun. and Networking Conf./, Kowloon, Hong Kong, Mar. 2007, pp. 3951--3955, *Best Paper Award*.\n
+. Y.~Shen and M.~Z. Win, ``Fundamental limits of wideband localization accuracy via Fisher information,'' in /Proc. IEEE Wireless Commun. and Networking Conf./, Kowloon, Hong Kong, Mar. 2007, pp. 3046--3051.
+
+== Theses
+- Ph.D. thesis: Network Localization and Navigation: Theoretical Framework, Efficient Operation, and Security Assurance, EECS Department, MIT. Advisor: Professor Moe Z. Win.
+
+- Master's thesis: Fundamental Limits of Wideband Localization, EECS Department, MIT. Advisor: Professor Moe Z. Win. *Ernst A. Guillemin Thesis Award (first place)*.
+
+- Bachelor's thesis: Vehicular Parameter Estimation for Video Traffic-Flow Surveillance Systems, EE Department, Tsinghua University. Advisor: Professor Xiqin Wang. *Outstanding Thesis Award*.
+
+

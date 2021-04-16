@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Single Prticle Reconstruction for Cryo-EM</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Yuan Shen</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="edu.html">Education</a></div>
+<div class="menu-item"><a href="bio.html">Biography</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="research.html">Interests</a></div>
+<div class="menu-item"><a href="pub.html">Publications</a></div>
+<div class="menu-item"><a href="UWB.html">UWB&nbsp;Localization</a></div>
+<div class="menu-item"><a href="Network.html">Network&nbsp;Localization</a></div>
+<div class="menu-item"><a href="Biological.html" class="current">Biological&nbsp;Structure</a></div>
+<div class="menu-item"><a href="multiagent.html">Multi-agent&nbsp;Networks</a></div>
+<div class="menu-category">Teaching</div>
+<div class="menu-item"><a href="course.html">Courses</a></div>
+<div class="menu-category">Group</div>
+<div class="menu-item"><a href="members.html">Members</a></div>
+<div class="menu-item"><a href="alumni.html">Alumni</a></div>
+<div class="menu-item"><a href="visitor.html">Visitors</a></div>
+<div class="menu-category">Links</div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Single Prticle Reconstruction for Cryo-EM</h1>
+</div>
+<h2>Research summary</h2>
+<p>Cryo-EM is inaugurating a new era for structural biology through its abilities to reveal atomic-resolution structures of biological samples without crystallization. The increasing demand for general applicability and higher throughput at the atomic-resolution level poses challenges for cryo-EM computing technologies. High-dimensional parameter estimation is still a challenging but key factor in obtaining reliable results. Failures in reconstruction or classification, as well as problems such as low resolution and over-refinement, are usually caused by bad parameter estimation and are recognized as an issue in 3D-reconstruction algorithms.<br />
+We are focusing on the following research directions: </p>
+<ul>
+<li><p>A Particle-filter framework for robust cryo-EM 3D reconstruction</p>
+</li>
+<li><p>Single particle reconstruction algorithm design</p>
+</li>
+<li><p>Cryo-ET reconstruction and subtomogram averaging</p>
+</li>
+<li><p>Incremental learning-based protein particle picking algorithm</p>
+</li>
+<li><p>3D-reconstruction algorithms for cryo-electron tomography</p>
+</li>
+<li><p>EPicker, a particle picking software based on neural networks</p>
+</li>
+</ul>
+<h2>Representative works</h2>
+<table class="imgtable"><tr><td>
+<img src="biology_img\\1.png" alt="alt text" width="400px" />&nbsp;</td>
+<td align="left"><ul>
+<li><p>We introduce a particle-filter algorithm for cryo-EM, which provides high-dimensional parameter estimation through a posterior probability density function (PDF) of the parameters given in the model and the experimental image. (Nature methods, vol 15, (2018))</p>
+</li>
+</ul>
+</td></tr></table>
+<ul>
+<li><p>We propose a general framework for efficiently implementing EM-algorithm in cryo-EM images processing tasks with prior constraint.</p>
+</li>
+<li><p>We propose a Fourier space reconstruction algorithm for cryo-ET, which is faster than SIRT without loss of precision. This algorithm can also solve the effect caused by non-ideal imaging system. 
+<br /></p>
+</li>
+</ul>
+<table class="imgtable"><tr><td>
+<img src="biology_img\\2.png" alt="alt text" width="400px" />&nbsp;</td>
+<td align="left"><ul>
+<li><p>We apply incremental learning to the cryo-EM protein particle picking system and improve the particle picking precision of the proposed method by more than 10%.</p>
+</li>
+</ul>
+</td></tr></table>
+<table class="imgtable"><tr><td>
+<img src="biology_img\\3.png" alt="alt text" width="400px" />&nbsp;</td>
+<td align="left"><ul>
+<li><p>We have improved the current Simultaneous Iterative Reconstruction Techniques (SIRT) by considering the influence of Contrast Transfer Function (CTF) in the system model directly. A 10%-gain in resolution of reconstructed tomograms is achieved on simulation datasets with our improved algorithm.</p>
+</li>
+</ul>
+</td></tr></table>
+<table class="imgtable"><tr><td>
+<img src="biology_img\\\4.png" alt="alt text" width="400px" />&nbsp;</td>
+<td align="left"><ul>
+<li><p>We develope a particle picking software based on CenterNet. This program is able to detect particles, vesicles and filaments in single particle micrographs.</p>
+</li>
+</ul>
+</td></tr></table>
+<div id="footer">
+<div id="footer-text">
+Page generated 2021-03-03 22:10:35 CST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

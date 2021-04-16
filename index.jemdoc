@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{index.html}, notime, nodate
+= Yuan Shen
+
+~~~
+{}{img_left}{Yuan_2012.jpg}{Portrait of Yuan Shen}{180}{240}
+
+Yuan Shen \n
+\n
+Associate Professor \n
+\n
+Institute of Information System \n
+[http://www.ee.tsinghua.edu.cn Department of Electronic Engineering] \n
+[http://www.tsinghua.edu.cn/ Tsinghua University] \n
+\n
+~~~
+
+== Welcome
+\n
+I am an Associate Professor with the Department of Electronic Engineering at Tsinghua University, Beijing, China since 2014. Prior to that, I was a research assistant and then postdoctoral associate in the [http://www.eecs.mit.edu/ EECS Department] at the [https://web.mit.edu Massachusetts Institute of Technology (MIT)], affiliated with the [https://lids.mit.edu/ Laboratory for Information and Decision Systems (LIDS)], from 2005 to 2014. 
+
+I received my Ph.D.\ and S.M.\ degree in EECS from MIT in 2014 and 2008, respectively, and B.E.\ degree in EE from Tsinghua University in 2005. My Ph.D. advisor was Professor [http://wgroup.lids.mit.edu/moewin.html Moe Z.\ Win]. My research interests include statistical inference, multi-agent systems, and biophysics. I am current working on network localization and navigation, resource allocation, inference techniques, and cooperative networks.
+
+~~~
+*Students and Postdocs*: I am looking for highly motivated students and postdoctoral researchers with solid mathematics background, who are interested in statistical inference, multi-agent systems, and optimization and control.
+~~~
+
+== Contact
+\n
+Department of Electronic Engineering\n
+Rohm Building 11-103, Tsinghua University\n 
+Beijing, 100084 China \n
+Phone:~~~+86-10-62797515 \n
+Email:~~~~shenyuan_ee@tsinghua.edu.cn \n
+Web:~~~~~~[http://oa.ee.tsinghua.edu.cn/~shenyuan/ http:\/\/oa.ee.tsinghua.edu.cn\/\~shenyuan\/] \n
