@@ -19,41 +19,45 @@ We are focusing on the following research directions:
 
 ~~~
 {}{img_left}{multiagent_img\\1.png}{alt text}{400}
-- Cooperative detection in mobile multi-agent networks: We propose a cooperative detection scheme for non-cooperative targets, and design a GLRT detector to realize joint position self-calibration and target detection. (IEEE Transactions on Signal Processing, 68(9), 5411-5426, (2020))
+- Cooperative detection in mobile multi-agent networks: We propose a cooperative detection scheme for non-cooperative targets, and design a GLRT detector to realize joint position self-calibration and target detection. \n
+- K. Gu, Y. Wang, and Y. Shen, "Cooperative detection by multiagent networks in the presence of position uncertainty," IEEE Trans. Signal Process., vol. 68, pp. 5411-5426, Sep. 2020.
 ~~~
 \n
-- Large-scale cooperative localization: We develop a large-scale cooperative localization based on passive extended double-sided two-way ranging (PE-DSTER). Angle measurement information of UWB antenna array is further exploited for improving the positioning accuracy. 
-\n
+
 ~~~
 {}{img_left}{multiagent_img\\2.png}{alt text}{400}
-- Joint localization and formation of multi-agent networks: We design a new index reflecting the formation performance. The formation performance when there are statistical errors in positioning and control is analyzed.
+- Joint localization and formation of multi-agent networks: We design a new index reflecting the formation performance. The formation performance when there are statistical errors in positioning and control is analyzed.\n
+- X. Li, K. Ma, J. Wang, and Y. Shen, "An integrated design of cooperative localization and motion control," in Proc. IEEE Int. Conf. Commun. in China, Changchun, China, Aug. 2019, pp. 1-5.
 ~~~
 \n
 ~~~
 {}{img_left}{multiagent_img\\3.png}{alt text}{400}
-- We propose a statistical framework for cooperative visual 3D perception in multi-agent networks. A metric based on statistical analysis is designed to evaluate the dependence of reconstruction quality on visual sensor deployment. The temporal and spatial cooperation for optimal sensor deployment is exploited. (IEEE Sensors Journal, Early Access, (2021)).
+- We propose a statistical framework for cooperative visual 3D perception in multi-agent networks. A metric based on statistical analysis is designed to evaluate the dependence of reconstruction quality on visual sensor deployment. The temporal and spatial cooperation for optimal sensor deployment is exploited.\n
+- Q. An, Y. Wang, and Y. Shen, "Sensor deployment for visual 3D perception: A perspective of information gains," IEEE Sensors J., vol. 21, no. 6, pp. 8464-8478, Mar. 2021.
 ~~~
 \n
 ~~~
 {}{img_left}{multiagent_img\\4.png}{alt text}{400}
-- We propose a new flocking algorithm with collision avoidance by constructing a novel potential function. The stability under observation and control noise is proved using Lyapunov functions. 
+- A new flocking algorithm with collision avoidance is proposed by constructing a novel potential function. We analyze the stability of the flocking algorithm proposed by the predecessors with Lyapunov's theory. The upper bounds of steady states are derived. Then the continuous-time system is discretized and sampled periodically and corresponding convergence results are derived according to the characteristics of digital chips.
 ~~~
 \n
 ~~~
 {}{img_left}{multiagent_img\\5.png}{alt text}{400}
-- A distributed formation algorithm based on the integrated framework of localization and control is proposed, which can achieve near-optimal accuracy (close to the fundamental limit), and has strong robustness to measurement and control noise. (IEEE Global Communications Conference (2020))
+- A distributed formation algorithm based on the integrated framework of localization and control is proposed, which can achieve near-optimal accuracy (close to the fundamental limit), and has strong robustness to measurement and control noise. \n
+- K. Ma and Y. Shen, "Distributed formation algorithm based on integrated localization and control," in Proc. IEEE Global Telecomm. Conf., Taipei, China, Dec. 2020, pp. 1-5.
 ~~~
 \n
 ~~~
 {}{img_left}{multiagent_img\\6.png}{alt text}{400}
 - We develop a general approach to characterize the spatial information coupling effect in relative localization and present a geometric interpretation for the cooperation efficiency between two agents. 
+- X. Shen, Y. Liu, and Y. Shen, "On the spatial information coupling in relative localization networks," in Proc. IEEE Int. Conf. Commun., Montreal, Canada, Jun. 2021, pp. 1-6.
 ~~~
 \n
 
-- We establish a framework of intersection vehicle scheduling problem and provide an algorithm of determining decision times and making decisions with limit state information. (2020 IEEE Intelligent Transportation Systems Conference)
-\n
 ~~~
 {}{img_left}{multiagent_img\\7.png}{alt text}{400}{300}
-- We provide a distributed long-horizon vehicle scheduling algorithm for traffic intersection with delayed information, provide the convergence guarantee for any finite vehicle sequence. (2020 IEEE Global Communications Conference)
+- We establish a framework of intersection vehicle scheduling problem and provide an algorithm of determining decision times and making decisions with limit state information. Moreover, we provide a distributed long-horizon vehicle scheduling algorithm for traffic intersection with delayed information, provide the convergence guarantee for any finite vehicle sequence.\n
+- F. Yang and Y. Shen, "Distributed long-horizon vehicle scheduling for traffic intersection with delayed information," in Proc. IEEE Global Telecomm. Conf., Taipei, China, Dec. 2020, pp. 1-6.
+- F. Yang and Y. Shen, "An adaptive approach for intersection vehicle scheduling with limited state information," in Proc. IEEE Int. Conf. Intell. Transport. Syst., Rhodes, Greece, Sep. 2020, pp. 1-6.
 ~~~
 \n

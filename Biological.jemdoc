@@ -16,24 +16,27 @@ We are focusing on the following research directions:
 
 ~~~
 {}{img_left}{biology_img\\1.png}{alt text}{400}
-- We introduce a particle-filter algorithm for cryo-EM, which provides high-dimensional parameter estimation through a posterior probability density function (PDF) of the parameters given in the model and the experimental image. (Nature methods, vol 15, (2018))
+- We introduce a particle-filter algorithm for cryo-EM, which provides high-dimensional parameter estimation through a posterior probability density function (PDF) of the parameters given in the model and the experimental image. \n
+- M. Hu, H. Yu, K. Gu, Z. Wang, H. Ruan, K. Wang, S. Ren, B. Li, L. Gan, S. Xu, G. Yang, Y. Shen, and X. Li, "A particle-filter framework for robust cryo-EM 3D reconstruction," Nat. Methods, vol. 15, no. 12, pp. 1083-1089, Dec. 2018.
 ~~~
 \n
-- We propose a general framework for efficiently implementing EM-algorithm in cryo-EM images processing tasks with prior constraint.
-- We propose a Fourier space reconstruction algorithm for cryo-ET, which is faster than SIRT without loss of precision. This algorithm can also solve the effect caused by non-ideal imaging system. 
-\n
+
 ~~~
 {}{img_left}{biology_img\\2.png}{alt text}{400}
-- We apply incremental learning to the cryo-EM protein particle picking system and improve the particle picking precision of the proposed method by more than 10%.
+- We propose a general framework for efficiently implementing EM-algorithm in cryo-EM images processing tasks with prior constraint.
+- We propose a Fourier space reconstruction algorithm for cryo-ET, which is faster than SIRT without loss of precision. This algorithm can also solve the effect caused by non-ideal imaging system. \n
+- We apply incremental learning to the cryo-EM protein particle picking system and improve the particle picking precision of the proposed method by more than 10%.  
 ~~~
-\n\n
+\n
+
 ~~~
 {}{img_left}{biology_img\\3.png}{alt text}{400}
 - We have improved the current Simultaneous Iterative Reconstruction Techniques (SIRT) by considering the influence of Contrast Transfer Function (CTF) in the system model directly. A 10%-gain in resolution of reconstructed tomograms is achieved on simulation datasets with our improved algorithm.
 ~~~
-\n\n
+\n
+
+
 ~~~
-{}{img_left}{biology_img\\\4.png}{alt text}{400}
-- We develope a particle picking software based on CenterNet. This program is able to detect particles, vesicles and filaments in single particle micrographs.
+{}{img_left}{biology_img\\4.png}{alt text}{400}
+- We develope a particle picking software based on CenterNet. This program can generate samples for incremental learning within 2D classification for further discrimination and reconstruction. The optimized pipeline is able to detect particles, vesicles and filaments in single particle micrographs.  
 ~~~
-\n\n
